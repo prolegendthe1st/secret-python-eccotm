@@ -2,5 +2,5 @@ import math
 import random
 import os
 import sys
-print("")
+input("RAHHHHHHHH")
 sys.stdout.print
